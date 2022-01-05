@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Halim Bilici
+- 👀 I’m interested in language programing.
+- 🌱 I’m currently study at Uludag University.
